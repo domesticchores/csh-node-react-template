@@ -39,6 +39,11 @@ var express = require('express');
 var app = express();
 
 // Configure session handling
+const session = require('express-session')
+const MemoryStore = require('memorystore')(session)
+// Set cookie expiry to 24hrs to prevent memory leaks
+app.use(require('express-session')({ secret: process.env.EXPRESS_SESSION_SECRET, resave: true, saveUninitialized: true, store: new MemoryStore({
+  checkPeriod: 86400000}), cookie: { maxAge: 86400000 } }));
 app.use(passport.authenticate('session'))
 
 // Initialize Passport and restore authentication state, if any, from the session.
