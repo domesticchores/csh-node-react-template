@@ -1,0 +1,16 @@
+# macOS Directory info files
+.DS_Store
+
+# npm
+node_modules/
+
+# General
+*.bak
+
+# Windows Directory info files
+thumbs.db
+desktop.ini
+
+# Local config
+local/
+.env

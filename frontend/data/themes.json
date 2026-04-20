@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Material",
+    "shortName": "csh-material-bootstrap",
+    "cdn": "https://assets.csh.rit.edu/csh-material-bootstrap/4.6.2/dist/csh-material-bootstrap.min.css",
+    "colour": "b0197e"
+  },
+  {
+    "name": "Pride",
+    "shortName": "csh-pride-bootstrap",
+    "cdn": "https://assets.csh.rit.edu/csh-pride-bootstrap/4.3.1/dist/csh-pride-bootstrap.min.css",
+    "colour": "282c34"
+  },
+  {
+    "name": "Datto",
+    "shortName": "csh-datto-bootstrap",
+    "cdn": "https://assets.csh.rit.edu/csh-datto-bootstrap/4.0.0/dist/csh-datto-bootstrap.min.css",
+    "colour": "5ebbe4"
+  },
+  {
+    "name": "Pastel",
+    "shortName": "csh-pastel-bootstrap",
+    "cdn": "https://assets.csh.rit.edu/csh-pastel-bootstrap/4.0.0/dist/csh-pastel-bootstrap.min.css",
+    "colour": "f6cece"
+  },
+  {
+    "name": "Dark",
+    "shortName": "csh-dark-material-bootstrap",
+    "cdn": "https://assets.csh.rit.edu/csh-dark-material-bootstrap/4.3.1/dist/csh-dark-material-bootstrap.min.css",
+    "colour": "b0197e"
+  },
+  {
+    "name": "Classic",
+    "shortName": "csh-classic-material-bootstrap",
+    "cdn": "https://assets.csh.rit.edu/csh-classic-material-bootstrap/4.3.1/dist/csh-classic-material-bootstrap.min.css",
+    "colour": "279901"
+  },
+  {
+    "name": "Spooktober",
+    "shortName": "csh-spooktober-bootstrap",
+    "cdn": "https://assets.csh.rit.edu/spooktober-theme/4.5.2/dist/csh-spooktober-material-bootstrap.min.css",
+    "colour": "18181a"
+  },
+  {
+    "name": "",
+    "shortName": "break",
+    "cdn": "",
+    "colour": ""
+  }
+]

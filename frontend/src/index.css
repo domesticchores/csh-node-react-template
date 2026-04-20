@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+body {
+  padding-top: 52px;
+  padding-bottom: 20px;
+  color: var(--bs-body-color)
+}
+.center {
+  text-align: center;
+}
+
+.dropdown-flat {
+  box-shadow: none;
+}
+
+.navbar-user {
+  margin-left: auto;
+}
